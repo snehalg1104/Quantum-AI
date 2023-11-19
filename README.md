@@ -1,1 +1,1 @@
-# Quantum-AI
+# Applied Quantum AI
